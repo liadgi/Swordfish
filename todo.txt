@@ -1,0 +1,14 @@
+1. find best quality/size ratio
+
+2. try other file formats than FLAC (mp3, etc). see which works and improve run time by lowering size
+
+3. upload to GCS by code
+
+4. web view with scrollable text
+
+
+resources:
+FFMPEG - https://trac.ffmpeg.org/wiki/How%20to%20speed%20up%20/%20slow%20down%20a%20video
+upload to Google Cloud Storage - https://cloud.google.com/python/getting-started/using-cloud-storage
+
+
